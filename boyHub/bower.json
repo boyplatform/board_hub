@@ -11,7 +11,7 @@
     "distribute platform hub",
     "分布式平台总线"
   ],
-  "homepage": "https://github.com/boyplatform/hub",
+  "homepage": "https://github.com/boyplatform/board_hub",
   "ignore": [
     "**/.*",
     "node_modules",
